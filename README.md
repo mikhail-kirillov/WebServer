@@ -17,7 +17,7 @@ To run the project, you need Python 3. Make sure it is installed on your system.
 
 1. Clone the repository:
 
-    `git clone https://github.com/kirillov-michael/WebServer.git`
+    `git clone https://github.com/mikhail-kirillov/WebServer.git`
 
 2. Install the necessary dependencies:
 
@@ -25,7 +25,7 @@ To run the project, you need Python 3. Make sure it is installed on your system.
 
 3. Run the server:
 
-    `python3 main.py`
+    `python main.py`
 
 ## Usage
 
